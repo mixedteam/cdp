@@ -1,6 +1,7 @@
 # cdp
 Concurrent and Distributed Programming
 
+
 Homework 1 (client/server)
 
 -User has the possibility to add notes, indicating the date for which note is created;
