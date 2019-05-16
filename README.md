@@ -10,4 +10,11 @@ Homework 1 (client/server)
 
 Homework 2 (REST API)
 
--User can read/create/change/delete notes or even a specific note;
+-User can read/create/change/delete notes or even a specific note.
+
+Homework 3 (Google App Engine)
+
+-Three microservices were developed;
+-"default" microservice represents the main page from which user can navigate either to "Notes Manager", or to "E-mail Reminder";
+-"email" microservice allows user to send a reminder on his email, for a specific note that he has created;
+-"manager" microservice offers the possiblity to view/add notes or mark the existing ones as "Done".
